@@ -31,9 +31,14 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
 
 - Python
 
-# Implantação
+# Como rodar os exemplos
 
-- Pycharm Community Edition
+- Você precisará do Pycharm instalado na sua máquina, disponível em https://www.python.org/downloads/
+- Tendo o Pycharm instalado na sua máquina (de preferência a última versão estável) de acordo com o seu sistema operacional, basta navegar por um terminal até o diretório onde os arquivos das questões estiverem e executá-los conforme o exemplo abaixo:
+ 
+```
+py .\questao01.py
+```
 
 ## Autor 
 
